@@ -1,6 +1,10 @@
 # Genshin of the Wild
 Genshin Impact vs The Legend of Zelda: Breath of the Wild
 
+Done by James Raphael Tiovalen, Ong Zhi Xiang and Koh Hui Juan.
+
+---
+
 This repository hosts the accompanying code dump and dataset used for stylometric analysis for our Digital Humanities video games research/final project for the course 02.137DH: Introduction to Digital Humanities.
 
 Screenshots are taken by our research team. We attempted to conduct a survey to gather and collect more screenshots [here](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPbne1iyIR1hKtYGeiPHQbEBUM0dIUE03NkdQWjRQRlJJSUI1TzVNWFNVSC4u) (login required) from the SUTD community, but since the screenshots submitted were not compatible for this research, we decided to abandon them.
