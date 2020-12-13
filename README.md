@@ -5,7 +5,7 @@ This repository hosts the accompanying code dump and dataset used for stylometri
 
 Screenshots are taken by our research team. We attempted to conduct a survey to gather and collect more screenshots [here](https://forms.office.com/Pages/ResponsePage.aspx?id=drd2NJDpck-5UGJImDFiPbne1iyIR1hKtYGeiPHQbEBUM0dIUE03NkdQWjRQRlJJSUI1TzVNWFNVSC4u) (login required) from the SUTD community, but since the screenshots submitted were not compatible for this research, we decided to abandon them.
 
-Audio/music dataset under the `auditory\dataset` (or `auditory/dataset` for Unix people) folder belongs to their respective creators. The actual titles and artists for each audio resource is embedded within each file's metadata.
+Audio/music dataset under the `auditory\dataset` (directory structure for Windows people, or `auditory/dataset` for Unix people) folder belongs to their respective creators. The actual titles and artists for each audio resource is embedded within each file's metadata.
 
 
 
