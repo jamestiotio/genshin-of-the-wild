@@ -3,7 +3,7 @@
 # - http://www.randombytes.org/audio_comparison.html
 # - https://oxygene.sk/2011/01/how-does-chromaprint-work/
 # - https://yohanes.gultom.id/2018/03/24/simple-music-fingerprinting-using-chromaprint-in-python/
-# - https://stackoverflow.com/a/55957642/10243394
+# - https://stackoverflow.com/a/55957642
 
 import shlex
 import subprocess
